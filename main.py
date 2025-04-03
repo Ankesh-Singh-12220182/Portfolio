@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(page_icon= "portfolio.png", page_title= "My Portfolio", layout = "centered", initial_sidebar_state= "auto")
+st.set_page_config(page_icon= "portfolio.png", page_title= "My Portfolio(Powered by Streamlit)", layout = "centered", initial_sidebar_state= "auto")
 
 
 
