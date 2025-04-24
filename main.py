@@ -5,7 +5,7 @@ st.set_page_config(page_icon= "portfolio.png", page_title= "My Portfolio(Powered
 
 
 
-image = Image.open("hd-man-user-illustration-icon-transparent-png-701751694974843ybexneueic.png")
+image = Image.open("000000.png")
 
 image = image.resize((200,150))
 
