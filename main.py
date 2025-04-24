@@ -7,7 +7,7 @@ st.set_page_config(page_icon= "portfolio.png", page_title= "My Portfolio(Powered
 
 image = Image.open("000000.png")
 
-image = image.resize((200,150))
+
 
 st.sidebar.image(image, use_container_width = True)
 st.sidebar.title("Ankesh Kumar Singh")
